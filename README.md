@@ -215,4 +215,3 @@ This project successfully integrates machine learning and web development to bui
 - A **user-friendly web interface** developed using Django, with clear separation of frontend and backend components.
 - **Reusable components** for encoding and scaling to ensure the consistency of predictions.
 
-The project is now ready for deployment, and further enhancements can be implemented for real-world use cases. Let me know if you need assistance with any additional features!
